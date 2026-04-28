@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Learning, building, and improving one project at a time</h3>
+<h3 align="center">Learning, building, and improving </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"/>
 
