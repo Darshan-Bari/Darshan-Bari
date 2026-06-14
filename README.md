@@ -3,7 +3,7 @@
 # Hi 👋, I'm Darshan!
 
 <a href="https://github.com/darshan-bari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Student+%7C+Developer;Learning,+building,+and+improving;Always+experimenting+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;Learning,+building,+and+improving;Always+experimenting+with+code" alt="Typing SVG" />
 </a>
 
 <br/>
