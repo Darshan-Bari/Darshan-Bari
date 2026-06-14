@@ -1,62 +1,65 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Learning, building, and improving </h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"/>
+# Hi 👋, I'm Darshan!
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=darshan-bari&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-bari" /> 
-</p>
+<a href="https://github.com/darshan-bari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Student+%7C+Developer;Learning,+building,+and+improving;Always+experimenting+with+code" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🚀 Currently Working On
-- Personal Portfolio Website  
-- ToS Analyzer (AI-based project)  
-- ResumeIQ  
+[![Profile Views](https://komarev.com/ghpvc/?username=darshan-bari&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/darshan-bari)
 
-### 🌱 Learning
-- Data Structures & Algorithms  
-- Frontend Development  
+<a href="https://www.linkedin.com/in/darshan-bari/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/darshan-bari">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-### 🤝 Collaborating
-- Open source web projects  
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/darshan-bari/">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/>
+### 👨‍💻 About Me
+
+<a href="https://github.com/darshan-bari">
+  <img align="right" width="300" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="coding gif" />
+</a>
+
+- 🚀 **Currently building:** Personal Portfolio Website, ToS Analyzer (AI-based), & ResumeIQ
+- 🌱 **Currently learning:** Data Structures & Algorithms, Frontend Development
+- 🤝 **Collaborating on:** Open source web projects
+- 💡 **Interests:** Exploring AI applications, Web design, and Linux environments
+- ⚡ **Fun fact:** I love blending creativity with logic—whether it's in code or 3D modeling with Blender!
+
+<br/>
+<br/>
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,html,css,linux,bash,blender&perline=8" alt="My Skills" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/darshan-bari" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30"/>
-  </a>
-</p>
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/> </a> 
 </p>
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-bari&show_icons=true&locale=en&layout=compact" />
-</p>
+### 📊 GitHub Analytics
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-bari&show_icons=true&locale=en" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan-bari&show_icons=true&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=8c8c8c&text_bold=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-bari&show_icons=true&theme=transparent&hide_border=true&layout=compact&title_color=0E75B6&text_color=8c8c8c&text_bold=false" height="165" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-bari&theme=transparent&hide_border=true&title_color=0E75B6&text_color=8c8c8c&icon_color=0E75B6&sideLabels=8c8c8c&sideNums=8c8c8c&currStreakLabel=0E75B6&currStreakNum=0E75B6&fire=0E75B6" height="165" alt="GitHub Streak" />
+</div>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-bari" />
+---
+
+<p align="center">
+  <i>Let's connect and build something awesome together!</i>
 </p>
