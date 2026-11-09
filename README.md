@@ -28,7 +28,7 @@
 </a>
 
 - 🚀 **Currently building:** Personal Portfolio Website, ToS Analyzer (AI-based), & ResumeIQ
-- 🌱 **Currently learning:** Data Structures & Algorithms, Frontend Development
+- 🌱 **Currently learning:** Data Structures & Algorithms, Backend Development
 - 🤝 **Collaborating on:** Open source web projects
 - 💡 **Interests:** Exploring AI applications, Web design, and Linux environments
 - ⚡ **Fun fact:** I love blending creativity with logic—whether it's in code or 3D modeling with Blender!
